@@ -1,0 +1,23 @@
+:root {
+  --primary: #000;
+  --secondary: rgb(247, 144, 9);
+  --white: #fff;
+
+  --radius: 20px;
+  --shadow: 1px 2px 6px #0000000a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body, div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin-top: 20px;
+}
