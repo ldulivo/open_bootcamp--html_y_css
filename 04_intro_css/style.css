@@ -1,0 +1,9 @@
+ul, ol {
+  color: blueviolet;
+  font-size: 1.7rem;
+}
+
+#elemento-1 {
+  color: red;
+  font-size: 2rem;
+}
