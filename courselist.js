@@ -18,5 +18,9 @@ const list = [
   {
     link: './04_intro_css',
     title: 'Introducción CSS'
+  },
+  {
+    link: './05_disposicion_elementos',
+    title: 'Disposición de elementos CSS'
   }
 ]
