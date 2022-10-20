@@ -1,0 +1,19 @@
+button {
+  width: 125px;
+  height: 30px;
+  transition: all .5s ease;
+}
+
+button:hover {
+  color: white;
+  background-color: green;
+}
+
+button::before {
+  content: 'Pasa por encima';
+  transition: all .5s ease;
+}
+
+button:hover::before {
+  content: '¡Hecho!';
+}

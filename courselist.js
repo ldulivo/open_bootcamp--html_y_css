@@ -22,5 +22,9 @@ const list = [
   {
     link: './05_disposicion_elementos',
     title: 'Disposición de elementos CSS'
+  },
+  {
+    link: './06_anidacion_de_selectores',
+    title: 'Anidación de selectores'
   }
 ]
